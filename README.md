@@ -1,3 +1,5 @@
-Aplicativo feito com arquiteutura VIPER e requisição de API da Marvel com URLSession
+Aplicativo feito com arquiteutura VIPER
+Requisição de API da Marvel com URLSession
+Telas criadas em ViewCode
 
 
